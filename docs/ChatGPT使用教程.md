@@ -34,7 +34,7 @@ https://zhuanlan.zhihu.com/p/589005258
 
 注册账户：随便弄个邮箱或者就用Google、微软账号注册就行。然后可能会提示你OpenAI's services are not available in your country.
 
-首先要个梯梯（懂的都懂，不宜多言），顺利的话你会看到填写用户名的页面：
+首先需要**学术上网**，顺利的话你会看到填写用户名的页面：
 
 ![image-20221204183045795](https://xianyunlp.oss-cn-hangzhou.aliyuncs.com/uPic/image-20221204183045795.png)
 
