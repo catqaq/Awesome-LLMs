@@ -29,7 +29,13 @@ GPT-type large language models, including but not limited to GPT1, GPT2, GPT3, I
 
 ### Tutorials
 
-1.ChatGPT使用教程：旧版使用教程在微信公众号https://mp.weixin.qq.com/s/gUJdcwoBs8JYJilL6uWFtA。新版使用教程在知乎，不过好像已经被和谐了https://zhuanlan.zhihu.com/p/589201080?。
+1.ChatGPT使用教程：
+
+ChatGPT系列01：与ChatGPT聊天的正确打开方式
+
+知乎: https://zhuanlan.zhihu.com/p/610555753 
+
+git: https://github.com/catqaq/Awesome-LLMs/blob/main/docs/ChatGPT%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
 
 ### News
 
